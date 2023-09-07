@@ -9,3 +9,13 @@
 
 ``` https://github.com/xinjuezou-whi/rplidar_ros2 ```
 ```https://roboticsbackend.com/ros2-package-for-both-python-and-cpp-nodes/```
+
+สร้าง package
+1.ros2 pkg create --build-type ament_cmake robot_description
+
+2. nano CMakeLists.txt 
+
+3. install(
+  DIRECTORY urdf launch rviz config
+  DESTINATION share/${PROJECT_NAME}
+)
