@@ -8,3 +8,4 @@
 6. yes ถ้าครั้งแรก แล้วใส่รหัส
 
 ``` https://github.com/xinjuezou-whi/rplidar_ros2 ```
+```https://roboticsbackend.com/ros2-package-for-both-python-and-cpp-nodes/```
