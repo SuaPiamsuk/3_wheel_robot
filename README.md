@@ -7,7 +7,7 @@
 5. ssh ubnutu@10.61.2.19
 6. yes ถ้าครั้งแรก แล้วใส่รหัส
 
-``` https://github.com/xinjuezou-whi/rplidar_ros2 ```
+``` https://github.com/Kp2499/rplidar_ros2 ```
 ```https://roboticsbackend.com/ros2-package-for-both-python-and-cpp-nodes/```
 
 สร้าง package
