@@ -19,3 +19,7 @@
   DIRECTORY urdf launch rviz config
   DESTINATION share/${PROJECT_NAME}
 )
+
+# mpu9250
+
+https://microcontrollerslab.com/esp32-mpu9250-tutorial/
