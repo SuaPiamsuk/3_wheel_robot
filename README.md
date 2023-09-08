@@ -23,3 +23,6 @@
 # mpu9250
 
 https://microcontrollerslab.com/esp32-mpu9250-tutorial/
+
+# micro-ros
+https://www.youtube.com/watch?v=fo5I9ZYbG5Q
