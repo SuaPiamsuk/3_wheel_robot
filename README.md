@@ -4,7 +4,7 @@
 2. แก้ไฟล์ใน sd card เพื่อใส่รหัส wifi
 3. เปิด rpi เพื่อดู ip address ด้วย ifconfig
 4. ดูเลขที่ wlan0 - inet รูป
-5. ssh ubnutu@10.61.2.19
+5. ssh ubnutu@10.61.2.19 ถ้าค้างต้องแก้ตามนี้ https://johnpili.com/fix-raspberry-pi-ssh-freezing-issue/
 6. yes ถ้าครั้งแรก แล้วใส่รหัส
 
 ``` https://github.com/Kp2499/rplidar_ros2 ```
