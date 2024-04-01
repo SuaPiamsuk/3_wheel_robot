@@ -35,5 +35,7 @@ https://roboticsbackend.com/ros2-package-for-both-python-and-cpp-nodes/
 https://microcontrollerslab.com/esp32-mpu9250-tutorial/
 ### 6. Micro-ros
 https://www.youtube.com/watch?v=fo5I9ZYbG5Q
+### 7. Very interesting
+https://maxpalay.com/projects/mecanum-wheel-base
 
 https://cps.unileoben.ac.at/category/wiki_hard_software/?print=print-search
